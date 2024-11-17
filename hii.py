@@ -1,1 +1,2 @@
-print("i am groot") nhnuobibviyvyivy m
+n= ['apple','nowa','shoes']
+print(" ".join(n))
